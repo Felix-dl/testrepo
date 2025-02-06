@@ -1,2 +1,2 @@
 # testrepo
-![Alt text here](images/someimage.png)
+![Alt text here](Testdiagramm.drawio.svg)
